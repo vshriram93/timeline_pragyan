@@ -33,7 +33,7 @@
          source: 'example_json.json'
         }
       </script>
-      <script type="text/javascript" src="scripts/storyjs-embed.js"></script>
+      <script type="text/javascript" src="js/storyjs-embed.js"></script>
       <!-- END Timeline Embed-->
   </body>
 </html>
