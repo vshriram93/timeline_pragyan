@@ -1,0 +1,60 @@
+{
+    "timeline":
+    {
+        "headline":"Pragyan Was Started",
+        "type":"default",
+	"text":"Pragyan,the Techno management fest of NIT-Trichy was started<br/>The team consisted of Arpit..",
+	"startDate":"2005,1,01",
+        "date": [
+            {
+                "startDate":"2006,01,01",
+		"endDate":"2007,04,27",
+                "headline":"2nd Pragyan ",
+                "text":"<p>Pragyan 2nd edition...Contents and images</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"Arpit Agarwal",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,01,01",
+		"endDate":"2007,04,27",
+                "headline":"1st pragyan ",
+                "text":"<p>Pragyan 05 Laser show</p>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=srjEbP_oTQA",
+                    "credit":"Arpit Agarwal",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,02,15",
+		"endDate":"2007,03,01",
+                "headline":"Dalal Street Started ",
+                "text":"<p>First Tech fest to have a online stock market event</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,02,15",
+		"endDate":"2007,03,01",
+                "headline":"Pragyan promo video ",
+                "text":"<p>A video to be watched</p><br/>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=ps47-vzcOTs",
+                    "credit":"Pragyan'07 team",
+                    "caption":"Making of Pragyan wheel"
+                }
+            }
+
+        ]
+    }
+}

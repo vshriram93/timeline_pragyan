@@ -1,0 +1,18 @@
+html, body {
+    height:100%;
+    padding: 0px;
+    margin: 0px;
+    width:100%;
+}
+body {
+    background-color:#1D1E20;
+}
+#headerimg {
+    background:#1D1E20;
+}
+#headerimg img{
+height: 92px;
+}
+.vco-storyjs {
+background: linear-gradient(#1D1E20,#1D1E28)  !important;
+}
